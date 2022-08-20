@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**ibrarjee/ibrarjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Here is what i am working on 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+telescope I’m currently working on ... Olx as a tester
+seedling I’m currently learning ... New test Automation frameworks
+dancers I’m looking to collaborate on ... Automation Frameworks
+thinking I’m looking for help with ... Selenium, Cypress and Testing Frameworks
+speech_balloon Ask me about ... Anything
+mailbox How to reach me: ... email
+smile Pronouns: ... he/him
+zap Fun fact: ... i am half finnish
+---->
